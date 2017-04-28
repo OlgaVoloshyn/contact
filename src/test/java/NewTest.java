@@ -4,6 +4,5 @@
 public class NewTest {
 
     public void sometest(){
-
     }
 }
