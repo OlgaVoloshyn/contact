@@ -4,5 +4,6 @@
 public class NewTest {
 
     public void sometest(){
+        System.out.println("jkjkjkdf");
     }
 }
